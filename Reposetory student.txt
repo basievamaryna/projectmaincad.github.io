@@ -1,0 +1,71 @@
+1)  Ірина Бугайчук https://github.com/Ira-Bughaichuk/Bughaichuk-Ira
+2)  Виктор Джиранов https://github.com/vdzhyranov/dzhyranov
+3)  Вера Вильчынская https://github.com/Vira-V/ViraVilchynska
+4)  Надежда Дорошенко https://github.com/Nadiia-Doroshenko/DoroshenkoNadiia
+5)  Ксения Шалыгина https://github.com/KseniiaShalyhina/ShalyhinaKseniia
+6)  Ярослава Яремченко https://github.com/yasya-design/FE55
+7)  Євген Неумитов https://github.com/EugeneNeumytov/EN2020
+8)  Даша Радченко  https://github.com/RadchenkoDaria/RadchenkoDaria
+9)  Александр Ващенко  https://github.com/Sansiboy1991/Vashchenko
+10) Людмила Боровкова https://github.com/mila0886/Borovkova
+11) Алексей Адаменко https://github.com/1Agony1/Aleksey_Adamenko
+12) Артем Францев https://github.com/FarT-hub/FrantsevArtem
+13) Станислав Крутько https://github.com/StanyslavKrutko/fe55
+14) Светлана Неделя https://github.com/Svetlana-sv8/FE55
+
+
+1)  Ірина Бугайчук        845  
+2)  Виктор Джиранов       395
+3)  Вера Вильчынская      1670 +50+50+60+80+100+250+60+50+300
+4)  Надежда Дорошенко     1315 +50+100
+5)  Ксения Шалыгина       725+100
+6)  Ярослава Яремченко    490
+7)  Євген Неумитов        1940+100 +50+60+80+350+350+150+200
+8)  Даша Радченко         1825+80+700+250  
+9)  Александр Ващенко     675 +50
+10) Людмила Боровкова     1240+100+60 +200(?)
+11) Алексей Адаменко      490
+12) Артем Францев         990+80+100+250+300
+13) Станислав Крутько     1230+100
+14) Светлана Неделя       100
+HW 18 30
+HW 17 50
+HW12 40
+HW13 30
+HW14 40
+HW 50 (4 здания)
+HW 19 50 +доп 20
+HW20 project 1 - 50
+HW project 100 верстка 100 адаптация = 200
+HW 22 20
+HW 24 - 30
+HW 25 - 30
+HW 26 - 35
+HW28 -  50
+HW 29 - 100 + ?
+HW 31 - 100
+HW 33 - 50
+HW 34 - 60
+HW 35 - 80
+HW куки - 60
+HW 38 - video-50, react-100
+HW 39 - 300
+
+CW 23 - (15)
+CW -24 -(30)
+CW - 25 (20,20,20,20)
+CW - 26 - (20,20,40)
+CW - 27 - (40)
+CW-33 - (50)
+CW - 35 - 50
+CW - 36 - 100
+Ельза -700
+
+Проекты Кашелек и Маска + 2шт. - 350
+Проект на новый год 250
+
+36 урок:
+- .on
+- 
+
+
